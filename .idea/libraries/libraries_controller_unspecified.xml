@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries-controller-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/samples/sdk-controllerclient/build/intermediates/exploded-aar/hackathon-vr.git/libraries-controller/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/samples/sdk-controllerclient/build/intermediates/exploded-aar/hackathon-vr.git/libraries-controller/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

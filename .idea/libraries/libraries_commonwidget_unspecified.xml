@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries-commonwidget-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/samples/sdk-simplepanowidget/build/intermediates/exploded-aar/hackathon-vr.git/libraries-commonwidget/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/samples/sdk-simplepanowidget/build/intermediates/exploded-aar/hackathon-vr.git/libraries-commonwidget/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

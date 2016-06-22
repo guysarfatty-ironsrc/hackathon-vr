@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries-base-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/samples/sdk-treasurehunt/build/intermediates/exploded-aar/hackathon-vr.git/libraries-base/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/samples/sdk-treasurehunt/build/intermediates/exploded-aar/hackathon-vr.git/libraries-base/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

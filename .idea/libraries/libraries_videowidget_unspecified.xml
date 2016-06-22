@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries-videowidget-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/samples/sdk-simplevideowidget/build/intermediates/exploded-aar/hackathon-vr.git/libraries-videowidget/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/samples/sdk-simplevideowidget/build/intermediates/exploded-aar/hackathon-vr.git/libraries-videowidget/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
